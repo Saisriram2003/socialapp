@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: black;
+  color:white;
+  font-family: 'EB Garamond', serif;
+  font-size: 1.25em;
+}
+.thisbutton{
+  color: #f1faee;
+}
+#titleindex{
+  font-family: monospace;
+  text-align: center;
+  margin-top: 15%;
+}
